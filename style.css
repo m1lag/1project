@@ -1,0 +1,23 @@
+/* section{
+    padding: 100px 0;
+} */
+
+header .castom{
+    background: #bb39cc !important;
+}   
+
+.castom .navbar-brand{
+    color: aliceblue !important;
+}
+
+.castom .nav-item{
+    color: aquamarine;
+}
+
+.castom .nav-link{
+    color: aquamarine;
+}
+
+.castom .nav-link-shop{
+    color: aquamarine;
+}
